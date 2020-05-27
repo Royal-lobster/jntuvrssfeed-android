@@ -1,0 +1,2 @@
+rootProject.name='JNTUV Home page'
+include ':app'
