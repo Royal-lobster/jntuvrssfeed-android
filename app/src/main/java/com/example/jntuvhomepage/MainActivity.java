@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
             try
             {
-                URL url = new URL("http://feeds.news24.com/articles/fin24/tech/rss");
+                URL url = new URL("http://jntukucev.ac.in/category/news/feed/");
 
                 //creates new instance of PullParserFactory that can be used to create XML pull parsers
                 XmlPullParserFactory factory = XmlPullParserFactory.newInstance();
